@@ -195,5 +195,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769702812.998976,
+    "completed_at": 1769702816.121043,
+    "comments": [
+      "You have not fixed the add function in calculator.py"
+    ],
+    "status": "Incomplete"
   }
 ]
