@@ -204,5 +204,14 @@
       "You have not fixed the add function in calculator.py"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769702961.499007,
+    "completed_at": 1769702984.229117,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks side_track/verify.py\n  stderr: 'fatal: unable to access 'https://github.com/git-mastery/exercises.git/': Failed to connect to github.com port 443 after 21104 ms: Could not connect to server\nfatal: could not fetch c93a1f927cfdaa88a84755aa785e6303ac75b6e0 from promisor remote'"
+    ],
+    "status": "Error"
   }
 ]
